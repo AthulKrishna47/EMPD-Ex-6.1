@@ -38,15 +38,16 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1491" height="811" alt="image" src="https://github.com/user-attachments/assets/3a22e531-a9c1-4139-b2f3-22d9882ce534" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/3a153061-470e-4477-9c0e-038329ee2379" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/3769e14b-1784-4c7a-9b9f-1f4c2845c8b7" />
+<img width="1389" height="736" alt="image" src="https://github.com/user-attachments/assets/36f35d01-b617-4f1b-90fb-719444eea098" />
+<img width="1916" height="620" alt="image" src="https://github.com/user-attachments/assets/95a8b200-5325-4a7b-af03-3c1c92cad648" />
 
-### Name:
-### Register Number:
+### Name: Athul Krishna A V
+### Register Number: 21225240017
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
